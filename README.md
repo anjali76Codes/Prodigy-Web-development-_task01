@@ -1,12 +1,14 @@
 Welcome to my web development journey !
-#anjali76Codes 
-# Responsive Navigation Project
+# anjali76Codes 
+# Responsive Navigation Menu 
 Welcome to my web development journey! 🌐 
-#features :
- Hover effects
- fixed navbar
- colour changes on Scrolling
- Responsive Navbar
+# features :
+  Dynamic Hover effects.
+  fixed navbar.
+  colour changes on Scrolling.
+  Responsive Navbar.
+  Whether you're a seasoned developer or just starting, this project provides a
+  hands-on experience in crafting an immersive web interface.
  feel free to customize it according to your preferences.
 
 
