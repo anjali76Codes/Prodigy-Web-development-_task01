@@ -7,7 +7,7 @@ Welcome to my web development journey! 🌐
   fixed navbar.
   colour changes on Scrolling.
   Responsive Navbar.
-  Whether you're a seasoned developer or just starting, this project provides a
+  Whether you're a seasoned developer or just starting, this task task provides a
   hands-on experience in crafting an immersive web interface.
  feel free to customize it according to your preferences.
 
